@@ -56,8 +56,8 @@ pip install opencv-python face-recognition numpy picamera2
 ##Starten des Programms: python v2_advanced_recognition.py
 
 
-## Beenden mit Taste: q
+##Beenden mit Taste: q
 
-## Autor
+##Autor
 M. Yilmaz
 ```
