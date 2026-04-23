@@ -15,7 +15,6 @@ Um auf der Hardware des Raspberry Pi 5 Echtzeit-Performance zu erreichen, habe i
 #Performance-Metriken
 - Auflösung: 640x480 (VGA) optimiert für Edge-Computing.
 - Genauigkeit: Das Gesicht muss zu mindestens 50 % mit dem Original übereinstimmen.
-- Reaktionszeit: Identifizierung in unter 200ms nach der Detektion.
 
 #Installation
 ```bash
