@@ -37,7 +37,10 @@ Es verwendet eine Raspberry Pi Kamera sowie OpenCV und die face_recognition Libr
 - Python 3.x  
 - Raspberry Pi mit Kamera.  
 - OpenCV cv2.  
-- face_recognition.  
+- face_recognition.
+- haarcascade_frontalface_default.xml  
+  Wird für die klassische Gesichtserkennung (OpenCV Haar Cascade) benötigt.
+  Die Datei kann über OpenCV mitgeliefert oder separat heruntergeladen werden.  
 - numpy.  
 - picamera2.  
 
