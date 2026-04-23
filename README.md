@@ -50,9 +50,8 @@ Es verwendet eine Raspberry Pi Kamera sowie OpenCV und die face_recognition Libr
 
 ```bash
 pip install opencv-python face-recognition numpy picamera2
-'''''
-...
 ```
+
 ##Starten des Programms: 
 python v2_advanced_recognition.py
 
@@ -62,4 +61,4 @@ q
 
 ##Autor
 M. Yilmaz
-```
+
