@@ -6,7 +6,6 @@ Dieses Projekt ist die fortgeschrittene Version meines Smart-Camera-Systems. Es 
 Um auf der Hardware des Raspberry Pi 5 Echtzeit-Performance zu erreichen, habe ich ein Hybrid-System implementiert:
 1. Detection (Haar Cascades):Sucht blitzschnell nach Gesichtspositionen im Graustufenbild.
 2. Recognition (Deep Learning):Berechnet nur für die gefundenen Ausschnitte ein 128-dimensionales Encoding zur Identifizierung.
-Dies reduziert die CPU-Last im Vergleich zu einer reinen KI-Vollbildanalyse um ca. 75%.
 
 #Technische Details
 - Vektorisierung: Umwandlung biologischer Merkmale in mathematische Encodings mittels der `dlib`-basierten `face_recognition`-Library.
