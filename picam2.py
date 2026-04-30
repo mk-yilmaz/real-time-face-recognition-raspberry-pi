@@ -5,7 +5,7 @@ import numpy as np
 
 # --- EINSTELLUNGEN ---
 PROFIL_NAME = "Erkannt"  # Hier kannst du deinen Namen eintragen
-TOLERANZ = 0.5            # Mindest-Übereinstimmung in Prozent (50%), damit ein Gesicht erkannt wird 
+TOLERANZ = 0.5            # Schwellenwert  
 # ---------------------
 
 # 1. Schnelle Suche laden (Haar Cascade)
